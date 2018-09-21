@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+.boxstart{
+	text-align:center;
+	text-decoration: underline;
+
+}
+.box2{
+	text-align:center;
+}
+#updateRecord{
+	border-style: double;
+	text-align:center;
+	border-radius: 25px;
+}
